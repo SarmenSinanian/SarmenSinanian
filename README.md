@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 (Hit counter created 05/09/2022)
 
 <!-- Start: Copyright 2022 TraceMyIP.org Service Code (231548-05102022)- DO NOT MODIFY //-->
-<div id="elemID031021" style="line-height:16px;text-align:center;position:relative;z-index:100000;">;<noscript> <!-- End: TraceMyIP.org Service Code //-->
+<div id="elemID031021" style="line-height:16px;text-align:center;position:relative;z-index:100000;"><noscript> <!-- End: TraceMyIP.org Service Code //-->
