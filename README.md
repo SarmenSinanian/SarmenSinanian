@@ -2,8 +2,8 @@
 
 ## WELCOME TO MY GIT HUB!
 <ul>
-  <li>:movie_camera::eyeglasses:Currently based out of Los Angeles, CA
-  <li>:school_satchel::school:University of California,  San Diego & BloomTech (Formerly Known As Lambda School) Alumnus
+  <li>:movie_camera:Currently based out of Los Angeles, CA:eyeglasses:
+  <li>:school_satchel:University of California,  San Diego & BloomTech (Formerly Known As Lambda School) Alumnus:school:
 </ul>
 
 ## Recent work:
