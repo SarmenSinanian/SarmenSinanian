@@ -9,6 +9,10 @@
   <li>Auto access, download, and pickling of the entire QQQ options chain for all expiration dates every day at 4PM EST (Market Close). Data goes back to 05-06-2022. All data within the uploaded pickle file (until size becomes an issue as more tickers may be added at higher frequency intervals besides the current once-per-day-at-closing interval). Data collected are: options Greeks, Open Interest, and Volume. Prices have been excluded as they're essentially a dependent variable of the other 3 attributes. Modeling will begin in 3 months time from start of data collection. Modeling will be done against QQQ ETF ticker price.
 </ul>
 
+# :hash::hash: Instagram Hashtiger Hider :hash::hash:
+<ul>
+  <li>Avoid people's pesky prying eyes into your like-farming hashtags by burying your most cringe-inducing, corny, targeted hashtags within a wall of random words that LOOK like hashtags (the :hash: symbol is placed at the end of the word instead of the front, throwing off the viewer's eye).
+</ul>
 <!--
 **SarmenSinanian/SarmenSinanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
