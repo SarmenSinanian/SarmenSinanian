@@ -2,6 +2,8 @@
 
 ### WELCOME TO MY GIT HUB!
 <ul>
+  <li>Currently based out of Los Angeles, CA
+  <li>University of California,  San Diego & BloomTech (Formerly Known As Lambda School) Alumnus
 </ul>
 
 ## Recent work:
