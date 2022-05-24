@@ -10,7 +10,7 @@
 
 # :camera: Image Repository :floppy_disk:
 <ul>
-  <li>HTML display of photos that you upload to the database. Upload images in individually or in bulk, delete individual images, or wipe the entire database clean of any trace. Hosted on Heroku and available for local use @REPONAME: ImageRepository.
+  <li>HTML display of photos that you upload to the database. Upload images individually or in bulk, delete individual images, or wipe the entire database clean of any trace. Hosted on Heroku and available for local use @REPONAME: ImageRepository.
 </ul>
 
 # :chart_with_upwards_trend: TD Ameritrade API Project :chart_with_downwards_trend:
