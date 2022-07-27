@@ -10,7 +10,7 @@
 
 # :camera: Image Repository :floppy_disk:
 <ul>
-  <li>HTML display of photos that you upload to the database. Upload images individually or in bulk, delete individual images, or wipe the entire database clean of any trace. Hosted on Heroku and available for local use @REPONAME: ImageRepository. (https://sarmensimagerepository.herokuapp.com/)
+  <li>HTML display of photos that you upload to the database. Upload images individually or in bulk, delete individual images, or wipe the entire database clean of any trace. Hosted on Heroku (https://sarmensimagerepository.herokuapp.com/) and available for local use @REPONAME: ImageRepository. 
 </ul>
 
 # :chart_with_upwards_trend: TD Ameritrade API Project :chart_with_downwards_trend:
@@ -20,7 +20,7 @@
 
 # :hash::hash: Instagram Hashtiger Hider :eyes::hash::hash:
 <ul>
-  <li>Avoid people's pesky prying eyes into your like-farming hashtags by burying your most cringe-inducing, corny, targeted hashtags within a wall of random words that LOOK like hashtags (the :hash: symbol is placed at the end of the word instead of the front, throwing off the viewer's eye).
+  <li>Avoid people's pesky prying eyes into your like-farming hashtags by burying your most cringe-inducing, corny, targeted hashtags within a wall of random words that LOOK like hashtags (the :hash: symbol is placed at the end of the word instead of the front, throwing off the viewer's eye). Hosted on Heroku (https://sarmensinstagramhashtaghider.herokuapp.com/) and available for local use @REPONAME: ImageRepository.
 </ul>
 
 <!--
