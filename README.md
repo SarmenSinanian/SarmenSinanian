@@ -20,7 +20,7 @@
 
 # :hash::hash: Instagram Hashtiger Hider :eyes::hash::hash:
 <ul>
-  <li>Avoid people's pesky prying eyes into your like-farming hashtags by burying your most cringe-inducing, corny, targeted hashtags within a wall of random words that LOOK like hashtags (the :hash: symbol is placed at the end of the word instead of the front, throwing off the viewer's eye). Hosted on Heroku (https://sarmensinstagramhashtaghider.herokuapp.com/) and available for local use @REPONAME: ImageRepository.
+  <li>Avoid people's pesky prying eyes into your like-farming hashtags by burying your most cringe-inducing, corny, targeted hashtags within a wall of random words that LOOK like hashtags (the :hash: symbol is placed at the end of the word instead of the front, throwing off the viewer's eye). Hosted on Heroku (https://sarmensinstagramhashtaghider.herokuapp.com/) and available for local use @REPONAME: InstagramHashtagHider.
 </ul>
 
 <!--
