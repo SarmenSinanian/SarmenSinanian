@@ -13,7 +13,7 @@
   <li>HTML display of photos that you upload to the database. Upload images individually or in bulk, delete individual images, or wipe the entire database clean of any trace. Hosted on Heroku (https://sarmensimagerepository.herokuapp.com/) and available for local use @REPONAME: ImageRepository. 
 </ul>
 
-# :chart_with_upwards_trend: TDAmeritrade API Data Pipeline :chart_with_downwards_trend:
+# :chart_with_upwards_trend: TDAmeritrade API Data Pipeline (Defunct as of 09/09/2024; long-belated/anticipated API issue due to TDAmeritrade/Schwab merger) :chart_with_downwards_trend:
 <ul>
   <li>Auto access, download, and pickling of the entire QQQ options chain for all expiration dates every day at 4PM EST (Market Close). Data goes back to 05-05-2022. All data within the uploaded pickle file (until size becomes an issue as more tickers may be added at higher frequency intervals besides the current once-per-day-at-closing interval). Data collected are: options Greeks, Open Interest, and Volume. Prices have been excluded as they're essentially a dependent variable of the other 3 attributes. Modeling will begin in 3 months time from start of data collection. Modeling will be done against QQQ ETF ticker price. Available for local use @REPONAME: TDAmeritradeAPI (must use your own API key/secret).
 </ul>
